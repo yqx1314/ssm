@@ -7,6 +7,6 @@ package com.suning;
  */
 public class test {
     public static void main(String[] args) {
-        System.out.println("分支");
+        System.out.println("master分支修改");
     }
 }
